@@ -1,0 +1,30 @@
+canvas {
+top:15%;
+position: relative;
+border: solid blue 1px;
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    position: relative; 
+    color: blue;
+}
+
+div {
+    margin:20px; 
+    color: blue;
+}
+
+a {
+    margin: 20px; 
+    color: blue; 
+    display: block; 
+    text-decoration:none;
+}
+
+*{
+    background: black;
+}
